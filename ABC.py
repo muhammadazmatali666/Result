@@ -1,4 +1,3 @@
-import mysql.connector as connector
 import streamlit as st
 st.header("Asslam-o-Alikum")
 st.header("So friends, I take data of your exam!")
