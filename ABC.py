@@ -15,7 +15,7 @@ st.header("Now I will see you yours mark")
 
 botton = st.button("Click Here")
 if botton:
-    st.markdown(st.text(f"""
+    st.markdown((f"""
     Tirjmat-ul-Quran : {number},
 
     English : {number1},
